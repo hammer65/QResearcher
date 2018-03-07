@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/hammer65/QResearcher#readme",
   "dependencies": {
+    "jsdom": "^11.6.2",
+    "lodash": "^4.17.5",
     "needle": "^2.2.0"
   }
 }
